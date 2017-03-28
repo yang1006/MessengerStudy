@@ -14,7 +14,9 @@ import android.os.RemoteException;
 import android.util.Log;
 
 /**
- * 绑定远程service,发送消息并接收server返回的消息*/
+ * Created by yll
+ * 绑定远程service,发送消息并接收server返回的消息
+ * */
 public class MainActivity extends Activity {
 
     private static final String TAG = "MainActivity";
